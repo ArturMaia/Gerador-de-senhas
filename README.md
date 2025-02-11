@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArturMaia/Gerador-de-senhas/blob/main/chave%20seguran%C3%A7a.jpg" alt="senha" style="width: 200px; border-radius: 10px;">
+  <img src="https://github.com/ArturMaia/Gerador-de-senhas/blob/main/chave%20seguran%C3%A7a.jpg" alt="Senha" style="width: 200px; border-radius: 10px;">
 </p>
 
 # Gerador de senhas em Java
